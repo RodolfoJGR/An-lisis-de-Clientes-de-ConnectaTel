@@ -39,15 +39,7 @@ Se identificaron registros con valores faltantes que requirieron tratamiento.
 Se detectaron inconsistencias en algunas variables de fechas.
 Los usuarios presentan diferentes patrones de consumo, lo que permitió clasificarlos en grupos de Bajo uso, Uso medio y Alto uso.
 Las visualizaciones facilitaron la comprensión del comportamiento general de los clientes.
-🚀 Cómo ejecutar el proyecto
-Clona este repositorio:
-git clone https://github.com/tu-usuario/connectatel-eda.git
-Instala las dependencias:
-pip install pandas numpy matplotlib seaborn jupyter
-Ejecuta Jupyter Notebook:
-jupyter notebook
-Abre el archivo:
-S7 Version-Estudiante-Project-ConnectaTel.ipynb
+
 📚 Habilidades demostradas
 Limpieza de datos
 Análisis exploratorio (EDA)
